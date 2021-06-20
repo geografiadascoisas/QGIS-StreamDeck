@@ -1,1 +1,1 @@
-# qgis-streamdeck
+# QGIS-StreamDeck
